@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="record_fragment_btn_record_margin_bottom">10dp</dimen>
+    <dimen name="record_fragment_chronometer_text_size">60sp</dimen>
+    <dimen name="record_fragment_chronometer_margin_bottom">64dp</dimen>
+    <dimen name="record_fragment_progress_bar_layout_width_length">200dp</dimen>
+    <dimen name="record_fragment_progress_bar_margin_top">27dp</dimen>
+    <dimen name="record_fragment_status_text_size">17sp</dimen>
+    <dimen name="record_fragment_status_margin_bottom">60dp</dimen>
+
+    <dimen name="record_item_card_view_layout_height">75dp</dimen>
+    <dimen name="record_item_card_view_layout_margin">5dp</dimen>
+    <dimen name="record_item_card_view_card_corner_radius">4dp</dimen>
+    <dimen name="record_item_card_view_card_elevation">3dp</dimen>
+    <dimen name="record_item_card_view_content_logo_margin_vertical">7dp</dimen>
+    <dimen name="record_item_card_view_content_name_text_size">15sp</dimen>
+    <dimen name="record_item_card_view_content_length_text_size">12sp</dimen>
+    <dimen name="record_item_card_view_content_length_margin_top">7dp</dimen>
+    <dimen name="record_item_card_view_content_date_text_size">12sp</dimen>
+</resources>

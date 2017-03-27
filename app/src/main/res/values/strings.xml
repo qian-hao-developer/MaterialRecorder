@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialAudioRecorder</string>
+
+    <!-- tab titles -->
+    <string name="main_activity_tab_title_record">Record</string>
+    <string name="main_activity_tab_title_list">List</string>
+
+    <string name="record_fragment_record_status_default">Tap the button to start recording</string>
+</resources>
